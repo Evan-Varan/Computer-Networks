@@ -1,0 +1,6 @@
+100001 Evan Varan 80
+100002 Josh Franco 90
+100003 Sam Burgess 54
+123456 John Varan 70
+100004 Sam Kilgore 60
+000007 Aaron lukenbill 90
